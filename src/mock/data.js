@@ -1,4 +1,4 @@
-const Mock = require('mockjs')
+const Mock = require('mockjs');
 
 // 生成学生数据
 const students = Mock.mock({
@@ -14,6 +14,6 @@ const students = Mock.mock({
       'hobby|1-3': ['看书', '画画', '音乐', '运动', '编程', '游戏', '旅游']
     }
   ]
-}).students
+}).students;
 
-module.exports = { students }
+module.exports = { students };
