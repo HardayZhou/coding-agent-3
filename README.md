@@ -1,4 +1,4 @@
-# codeing-agent-2
+# codeing-agent-3
 
 ## Project setup
 ```
